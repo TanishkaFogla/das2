@@ -1,8 +1,8 @@
-public class sum1{
+public class mul{
     public static void main(String[] args)
     {
         int a=5;
         int b=5;
-        System.out.println("lala"+(a+b));
+        System.out.println("lala"+(a*b));
     }
 }
