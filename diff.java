@@ -3,6 +3,6 @@ public class sum1{
     {
         int a=15;
         int b=5;
-        System.out.println("lala"+(a-b));
+        System.out.println("lala"+(a/b));
     }
 }
